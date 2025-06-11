@@ -1,0 +1,8 @@
+# Dir
+.vs/
+VT_Engine/.vs/
+VT_Engine/bin-int/
+VT_Engine/bin/
+
+# Files
+VT_Engine/*.user
