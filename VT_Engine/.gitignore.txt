@@ -1,0 +1,4 @@
+# Dir
+.vs/
+bin/
+bin-int/
